@@ -148,7 +148,7 @@ int main() {
 
     printf("\n........................\n");
     printf(" PISTAS COLETADAS (A-Z)\n");
-    printf("|........................\n");
+    printf("........................\n");
     exibirPistas(arvorePistas);
 
 
